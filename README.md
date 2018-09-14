@@ -1,1 +1,1 @@
-# Welcom to mypy
+# Welcome to mypy
